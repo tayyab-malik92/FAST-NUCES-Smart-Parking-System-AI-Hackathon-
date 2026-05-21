@@ -1,7 +1,8 @@
 # 📝 Development Log (DEVLOG)
 ## Project: FAST-NUCES Smart Parking Availability System
 **Developer:** Muhammad Tayyab Malik (muhammmadtayyabmalik92@gmail.com) 
-**Event:** KIROTHON: The Finale AI Hackathon by AWS Pakistan  
+
+**Event:** KIROTHON: The Finale AI Hackathon at Tkxel, Lahore by AWS Community Pakistan  
 **Stack:** React.js, Node.js, Express, Firebase Realtime Database  
 
 ---
