@@ -1,0 +1,13 @@
+{
+  "projectType": "fullstack",
+  "language": "javascript",
+  "frameworks": ["react", "nodejs", "express"],
+  "workspaces": {
+    "frontend": "./frontend",
+    "backend": "./backend"
+  },
+  "settings": {
+    "autoInstall": true,
+    "environment": "production"
+  }
+}
