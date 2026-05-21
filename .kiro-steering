@@ -1,0 +1,12 @@
+# Kiro Environment Steering Configuration
+START_CONTEXT=production
+BUILD_TARGET=decoupled
+
+[backend]
+directory=backend
+command=npm start
+port=process.env.PORT
+
+[frontend]
+directory=frontend
+command=npm run build
