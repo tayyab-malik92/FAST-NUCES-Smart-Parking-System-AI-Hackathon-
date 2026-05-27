@@ -5,6 +5,7 @@ An AI-driven, full-stack real-time parking monitoring and allocation system deve
 ## 🚀 Project Overview
 Finding a parking spot during peak university hours can be chaotic. This project provides a live dashboard that dynamically tracks, updates, and manages parking slot occupancy across different campus zones using a robust full-stack architecture and real-time database syncing.
 
+**Live Demo Video Link:** https://drive.google.com/file/d/175AETGaPVe2ClKnpwB7zTskBA8nv9Uin/view?usp=sharing
 ---
 
 ## 📂 Project Structure
